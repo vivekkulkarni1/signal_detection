@@ -1,0 +1,39 @@
+         network: IU
+         station: MAJO
+        location: 10
+         channel: BH1
+       starttime: 2017-03-23T15:00:00.019538Z
+         endtime: 2017-03-23T16:59:59.994538Z
+   sampling_rate: 40.0
+           delta: 0.025
+            npts: 288000
+           calib: 1.0
+         _format: MSEED
+           mseed: AttribDict({'dataquality': 'M', 'number_of_records': 1027, 'encoding': 'STEIM2', 'byteorder': '>', 'record_length': 512, 'filesize': 1597952})
+
+         network: IU
+         station: MAJO
+        location: 10
+         channel: BH2
+       starttime: 2017-03-23T15:00:00.019538Z
+         endtime: 2017-03-23T16:59:59.994538Z
+   sampling_rate: 40.0
+           delta: 0.025
+            npts: 288000
+           calib: 1.0
+         _format: MSEED
+           mseed: AttribDict({'dataquality': 'M', 'number_of_records': 1026, 'encoding': 'STEIM2', 'byteorder': '>', 'record_length': 512, 'filesize': 1597952})
+
+         network: IU
+         station: MAJO
+        location: 10
+         channel: BHZ
+       starttime: 2017-03-23T15:00:00.019538Z
+         endtime: 2017-03-23T16:59:59.994538Z
+   sampling_rate: 40.0
+           delta: 0.025
+            npts: 288000
+           calib: 1.0
+         _format: MSEED
+           mseed: AttribDict({'dataquality': 'M', 'number_of_records': 1068, 'encoding': 'STEIM2', 'byteorder': '>', 'record_length': 512, 'filesize': 1597952})
+

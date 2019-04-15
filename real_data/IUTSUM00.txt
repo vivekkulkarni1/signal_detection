@@ -1,0 +1,39 @@
+         network: IU
+         station: TSUM
+        location: 00
+         channel: BH1
+       starttime: 2017-04-03T16:40:00.019538Z
+         endtime: 2017-04-03T18:39:59.969538Z
+   sampling_rate: 20.0
+           delta: 0.05
+            npts: 144000
+           calib: 1.0
+         _format: MSEED
+           mseed: AttribDict({'dataquality': 'M', 'number_of_records': 498, 'encoding': 'STEIM2', 'byteorder': '>', 'record_length': 512, 'filesize': 781824})
+
+         network: IU
+         station: TSUM
+        location: 00
+         channel: BH2
+       starttime: 2017-04-03T16:40:00.019538Z
+         endtime: 2017-04-03T18:39:59.969538Z
+   sampling_rate: 20.0
+           delta: 0.05
+            npts: 144000
+           calib: 1.0
+         _format: MSEED
+           mseed: AttribDict({'dataquality': 'M', 'number_of_records': 505, 'encoding': 'STEIM2', 'byteorder': '>', 'record_length': 512, 'filesize': 781824})
+
+         network: IU
+         station: TSUM
+        location: 00
+         channel: BHZ
+       starttime: 2017-04-03T16:40:00.019538Z
+         endtime: 2017-04-03T18:39:59.969538Z
+   sampling_rate: 20.0
+           delta: 0.05
+            npts: 144000
+           calib: 1.0
+         _format: MSEED
+           mseed: AttribDict({'dataquality': 'M', 'number_of_records': 524, 'encoding': 'STEIM2', 'byteorder': '>', 'record_length': 512, 'filesize': 781824})
+
