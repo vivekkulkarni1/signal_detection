@@ -1,2 +1,3 @@
-# signal_detection
-Earthquake Signal Detection
+# Signal Detection Techniques
+- Few of the signal detection techniques
+- Implementation and papers
